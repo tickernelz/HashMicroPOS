@@ -36,6 +36,7 @@
         "mpdf/mpdf": "^8.1",
         "nwidart/laravel-menus": "6.0.x-dev",
         "nwidart/laravel-modules": "^9.0",
+        "obuchmann/odoo-jsonrpc": "^1.4",
         "openai-php/laravel": "^0.4.1",
         "pusher/pusher-php-server": "^5.0",
         "razorpay/razorpay": "2.*",
